@@ -8,6 +8,6 @@ package modelo;
  *
  * @author ire22
  */
-public enum Categoria {
-    Calzado,Textil, Accesorio; 
+public enum Category {
+    Footwear,Textiles, Accessories; 
 }
