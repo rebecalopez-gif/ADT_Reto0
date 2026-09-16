@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
  */
 package modelo;
 
@@ -8,6 +8,6 @@ package modelo;
  *
  * @author ire22
  */
-class booelan {
-    
+public enum Category {
+    Footwear,Textiles, Accessories; 
 }
